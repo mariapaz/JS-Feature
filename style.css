@@ -14,7 +14,8 @@ header h1{
   margin-bottom:0
 }
 #prompts{
-  margin: 0 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 .fac-prompt__selection img {
     max-width: 100%;
